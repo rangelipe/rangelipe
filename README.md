@@ -8,8 +8,6 @@
 
 <p align="left"><strong>Hi 👋! My name is Felipe Rangel and I'm a UX/UI Designer from Brazil.</strong></p>
 
-<img src="./Icon-Sllag2 (1).png" alt="minha logo" min-width="156px" max-width="156px" width="156px" align="right">
-
 <p align="left"> 
  <strong> Meu nome é Felipe Rangel , seja bem vindo ao meu Github. </strong>
 </p>
